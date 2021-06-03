@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of the burgesses of Nottingham, in reference to the surrendering of their charters, truly stated, August the 21st. 1682.</title>
+         </titleStmt>
+         <extent>Approx. 28KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18640</idno><idno type="EEBO-CITATION">99889288</idno>
+  <idno type="VID">186129</idno>
+  <idno type="EEBO-PROQUEST">2240905014</idno>
+  
+            <idno type="OCLC"> 8882406</idno>
+            <idno type="STC">Wing C1023E</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.100*[163]</idno>
+            <idno type="STC">ESTC R25331</idno>
+            <idno type="PROQUEST">ocm99889288</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889288e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18640)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186129)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:2[161])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case of the burgesses of Nottingham, in reference to the surrendering of their charters, truly stated, August the 21st. 1682.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Brabazon Aylmer, at the Three Pigeons, over against the Royal Exchange in Cornhil.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Nottingham (England) --  Charters, grants, privileges --  Early works to 1800.</term>
+               <term type="geographic_name">Nottingham (England) --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:186129:1"/>
+            <head>The CASE of the BURGESSES of <hi>Nottingham,</hi> in reference to the Surrendring of their CHARTERS, truly stated, <hi>August</hi> the 21st. 1682.</head>
+            <p>THE Town of <hi>Nottingham</hi> hath alwaies claimed to have been a Burrough by Praescription: And<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> cannot well be doubted that it hath been so; For that it appears by <hi>Dooms-day-book,</hi> in the time of King <hi>William</hi> the First, That the <hi>Burgesses</hi> of <hi>Nottingham</hi> then had divers Houses and Parcels of Land in <hi>Nottingham:</hi> And that the Burgesses of that Town were One Hundred Seventy Three in Number, in the time of <hi>Edward</hi> the <hi>Confessor.</hi>
+            </p>
+            <p>That Town hath also alwaies claimed to have been a Corporation by Praescription; And it is hard to be<g ref="char:EOLhyphen"/>lieve it otherwise, because no Charter of its first incorporating could yet be found, and the Charters granted to the Burgesses of that Town by King <hi>Henry</hi> the Second and King <hi>John</hi> do imply them as a Body Corporate before those times.</p>
+            <p>Yet it appears by the Charter of King <hi>Edward</hi> the First that there was no <hi>Maior</hi> of that Town before his Reign, For that he then was pleased to grant the Burgesses of that Town a priviledge that they then after should choose a <hi>Maior</hi> out of themselves annually: And some of their former Charters as well as that, shew, that for some time before they had only Bailifs of that Town. From <hi>Edward</hi> the Firsts time under <hi>Maior</hi> and <hi>Bailifs</hi> the Town continued till <hi>Henry</hi> the Sixths time; who was pleased to make it a County and grant them Sheriffs instead of <hi>Bailiffs;</hi> and the priviledge of choosing out of themselves Seven Aldermen, and one of them annually to be <hi>Maior,</hi> and that the Aldermen (as long as they so continued) should be Justices of the Peace within that Town: And moreover that the Burgesses of the Town of <hi>Nottingham</hi> should for ever be a Body Corporate by the Name of Maior and Burgesses. Nor hath any Charter since, nor any By-Law that can now be heard of, given the Aldermen any more Power than they had by that Charter, which was then no<g ref="char:EOLhyphen"/>thing more than every Burgess of that Town had, except being Justices of the Peace and wearing Gowns and Hoods. So that the Aldermen, though of late they have taken upon them to sit as Members of the Coun<g ref="char:EOLhyphen"/>sel of that Town, can neither prescribe to that power, because there were no Aldermen in that Town before King <hi>Henry</hi> the Sixths days: Nor can they claim to be of the Councel of that Town by force of any Charter; for no Charter either in <hi>Henry</hi> the Sixths time or since hath granted them any such Authority: Nor did they pretend to sit in that Councel by vertue of any By-Law of that Town, or ever shewed any such By-Law, though their right of Sitting and Voting there hath been denyed in the Councel by Members thereof.</p>
+            <p>The Aldermen indeed, in King <hi>James</hi> his time began, though they had no right so to do, to take upon them to be part of the Councel and to intermeddle in the Towns Concerns and to encroach so far upon the Burgesses without their consent as to pretend to have a right in the setting and disposing of the Corporation Lands, and of the Bridge-Lands, and School-Lands: But the Burgesses were so far from consenting to their ha<g ref="char:EOLhyphen"/>ving of any such Power or Authority that they in the year 1605, by their Petition to the Lords of the Councel Table complained of the encroachments of the Aldermen, and pray'd redress. Upon which the Lords of the Councel referred the examination of the matters in Controversie to the Judges of Assize that went that Circuit, to the end they might be certifyed and the better informed by the said Justices of such Course a up<g ref="char:EOLhyphen"/>on good Advice and deliberation they should find in their Judgments agreeable to Law and meet to be set down and ordered in that behalf. Who accordingly entred into consideration of the complaints on both si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and advised with the rest of the Judges touching the Charter granted to that Corporation, and all ot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er matters meet to be considered of concerning the matters in Controversie, And returned Certificates of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir Opinions of such order of agreement as they thought fit and convenient to be observed and established, a<g ref="char:EOLhyphen"/>cording to Law and Justice for the publique good and Government of the said Town. Whereof the Mai<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and the Parties indifferently sent up to solicite a peaceful end of those Controversies, having taken kno<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ledge, did consent thereto: And thereupon by consent of the said Parties it was amongst other things o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>der'd that there should be a Councel in that Town of Twenty Four persons only, out of which the Alderme<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for the time being should alwaies be excepted; And that the said Councel with the Maior, or the greate<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> part of them being at such Assembly without any other of the said Corporation should set and let the Town-Lands, Bridge-Lands, and School-Lands, taking unto them the Chamberlains, Bridge-Masters, and School Wardens respectively, as their places for the Lands within their several Offices should require; As by the said Order and Agreement, which the Burgesses have ready to produce when occasion shall require, will plain<g ref="char:EOLhyphen"/>ly appear. So that now all pretence of the Aldermens being of the Councel, or having any thing to do with the Corporation Lands, the School-Lands, or the Bridge-Lands was adjudg'd against both by the Judges and the Lords of the Privy-Councel, and accordingly was wholly laid aside till of late.</p>
+            <p>The Case standing thus, and the Maior Aldermen and Burgesses of that Corporation being by their Burges Oath particularly obliged that the Franchises of the said Town they will maintain, sustain, wit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Bodies, their Goods, and their Chattels to their Power, and that not let neither for love nor dre<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> without regard of any man, but maintain the Laws, good Customs, and Franchises of that Town; A<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> divers bargesses of that Town being informed about the beginning of Easter Term last, that the Maior,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> some of the Aldermen of that Town had a design to frurender the Charters of that Corporation; It was so<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> credited by any of the Burgesses that the Maior or almost any of the Aldermen would consent to do a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> so directly contrary to their Burges Oath: yet divers Burgesses of the said Town, considering they had<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the said Oath for preserving the Rights of the Town, Thought it but convenient, for the pre<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ill Consequences which they well knew must befall that Town, if their Charters should be<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a new Charter taken without the privity, consent, or hearing of the Burgesses of that<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Caveats to be entred: And accordingly in Easter. Term Ordered two to be entred at<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and two at the Attorney Generals; one of which Caveats in each place was again<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ter
+<pb n="2" facs="tcp:186129:2"/>to the Town of <hi>Nottingham,</hi> without the privity, consent, or hearing of the Burgesses of that Town; The other against the accepting of any surrender of any Charter of that Town without the like privity, consent, and hearing: Which said Caveats were entered accordingly.</p>
+            <p>And so the matter rested till the 25th of <hi>July</hi> last. But upon that day the Maior called a Councel without giving notice what the business would be unless it was to those of his own Party and Confederacy: But that he had thoughts of surrendring when he came to the Hall will be pretty manifest from what he did after the question was put to the Vote, and the Pole taken. There appeared at the Hall the Maior and Five Alder<g ref="char:EOLhyphen"/>men and Two and Twenty of the Councel and Mr. <hi>William Toplady,</hi> (who the last year by order of Mr. <hi>Gervas Rippon</hi> the then Maior was sworn in as an Alderman, though Mr. <hi>Sherwin,</hi> who stood in competi<g ref="char:EOLhyphen"/>tion with Mr. <hi>Toplady,</hi> had near twice as many Votes. Upon which Mr. <hi>Sherwin</hi> brought his <hi>Mandamus,</hi> and the Cause is yet undecided in the Court of Kings Bench.) After some business in the Hall was dispatcht, The Maior caused a question to be put for surrendring of the Charters of that Town: And though it was decla<g ref="char:EOLhyphen"/>red by some of the Councel, that the Aldermen had no right to vote therein yet the Maior caused a Pole to be taken and admitted them, and Mr. <hi>Toplady</hi> as Voters; Save only, that Mr. Alderman <hi>Edge</hi> suspended his Vote and gave it neither way: The rest voted as followeth, <hi>Viz.</hi>
+            </p>
+            <list>
+               <head>For Surrendring the Charter.</head>
+               <item>
+                  <hi>Gervas Wild,</hi> Maior.</item>
+               <item>
+                  <hi>Christopher Hall,</hi> Alderman.</item>
+               <item>
+                  <hi>John Parker,</hi> Alderman.</item>
+               <item>
+                  <hi>Gervas Rippon,</hi> Alderman.</item>
+               <item>
+                  <hi>William Toplady,</hi> Alderman <hi>de facto.</hi>
+               </item>
+               <item>
+                  <hi>William Mabbot.</hi>
+               </item>
+               <item>
+                  <hi>Edward Mabbot.</hi>
+               </item>
+               <item>
+                  <hi>William Petty.</hi>
+               </item>
+               <item>
+                  <hi>Robert Wortley.</hi>
+               </item>
+               <item>
+                  <hi>Hugh Walker.</hi>
+               </item>
+               <item>
+                  <hi>William Woolhouse.</hi>
+               </item>
+               <item>
+                  <hi>John Whitby.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Lee.</hi>
+               </item>
+               <item>
+                  <hi>John Ʋnwin.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Against Surrendring the Charter.</head>
+               <item>
+                  <hi>William Greaves,</hi> Alderman.</item>
+               <item>
+                  <hi>John Greaves,</hi> Coroners.</item>
+               <item>
+                  <hi>Samuel Richards,</hi> Coroners.</item>
+               <item>
+                  <hi>Robert Green,</hi> Sheriff.</item>
+               <item>
+                  <hi>Huntingdon Eyre.</hi>
+               </item>
+               <item>
+                  <hi>Roger Riley.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Walker.</hi>
+               </item>
+               <item>
+                  <hi>Richard Smith.</hi>
+               </item>
+               <item>
+                  <hi>Francis Salmon.</hi>
+               </item>
+               <item>
+                  <hi>Ralph Bennet.</hi>
+               </item>
+               <item>
+                  <hi>John Sherwin.</hi>
+               </item>
+               <item>
+                  <hi>Samuel Smith.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Trigg.</hi>
+               </item>
+               <item>
+                  <hi>William Smith.</hi>
+               </item>
+            </list>
+            <p>So that if the Aldermen should be admitted to have a right to vote in the Councel, yet here was no <hi>Majority</hi> for the Surrender. But on the contrary, The Aldermen having no colour of right, either by Praescription, or Charter, or otherwise (for the reasons aforesaid) to be of the Councel; It is plain there was only the Maior and nine of the Councel for the Surrender, and thirteen of the Councel against it; And consequently that the greater part of the Councel voted against the Surrender. Nor can it be imagined that the Councel of that Corporation (being neither settled by Praescription, nor vested in by Charter, but only brought in by consent and choice of all the Burgesses, only for the better managery of the Revenues of the Corporation and dispatch of some other ordinary Affairs, and not intrusted with many rights of that Town) can pretend to any power of surrendring the Charters and Liberties of that Town more than any small number of Bur<g ref="char:EOLhyphen"/>gesses: So that how this surrender of fourteen men against the Vote of the greater Number of the Councel, and will of almost all the Burgesses should be good in Law, is not yet well understood: And if the putting of the Town Seal to an Instrument without the consent of the Body Corporate should be said to be sufficient in Law to give away the Lands and Rights of any Body Corporate Then any Thief that can but Steal the Cor<g ref="char:EOLhyphen"/>pration Seal will have it in his Power, though he be no Member of the Corporation, to give up the Lands and Liberties thereof: Which indeed would be a strange peice of Law and Justice to be owned in any Nation <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at pretends to Sence and Honesty. Yet Mr. Maior, all this notwithstanding, did as soon as the said Vote <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as over, pull out of his Pocket an Instrument in writing, purporting a surrender of their Charters, and cau<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d the Town Seal to be affixed thereto without any further Vote. The Draught of the Instrument, as it is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ommonly said, was first made at <hi>London,</hi> and thence transmitted to an <hi>Honourable Person</hi> in <hi>Nottinghamshire,</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd by his Order conveyed to Mr. Maior. But this Report, if it were not for one thing which its believed will be proved if there be occasion, might seem not well grounded; because, as it afterwards will appear, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his surrender was not thought sufficient, and so another was sealed; Which yet one of the Aldermen would <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ave to be the very same word for word with that which was first sent up sealed to <hi>London;</hi> as if twice Seal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g would make that effectual which was not so by being once sealed. But it is likely he had not heard what <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> commonly reported, and perhaps will be proved when time serves, that the first Instrument for surren<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ring that was sealed, was drawn so as to make a surrender to the Right Honourable the Earl of <hi>Hallifax</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d Sir <hi>Leoline Jenkins.</hi>
+            </p>
+            <p>After the said Vote, touching the intended surrender, was over; many of the Burgesses of <hi>Nottingham</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nsidering their Oath and that there were many Customs and Priviledges in reference to Trade which the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rgesses of the Corporation held only by Custom and Praescription, and that as some of the Lands which that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rporation held was by grant from some of His Majesties Royal Praedecessors, so most of their Town-Lands (which are of great annual value) were given by private persons; Thought fit to ask advice of Councel <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>veral points.</p>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he first Question proposed to Councel was, Whether if the Charters were surrendred and a new one taken, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> new grant would not preserve the Lands to the Corporation? To which Councel replyed that if the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ers of any Body Corporate were legally surrendred, Then the Corporation that held by such Charters <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ssolved, and that if they had any Lands which had been given to that Corporation the Heirs of those <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ve those Lands would, as soon as such surrender was compleated, be entituled to the Lands and reco<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ame. And they said those Lands which had been given to such Corporation by any of His Majesties <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s, His Majestie might, if he so pleased, grant them again to the Corporation; But no new Charter <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as they conceived give the Corporation any Title to those Lands which had been given by pri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Or enable the Corporation to keep them from the Heirs of those that gave them, In case
+<pb n="3" facs="tcp:186129:2"/>such surrender should be: And so they say It was resolved by the Judges when the Monasteries were surrendred or dissolved, And that therefore a special Act of Parliament was advised to be made, and accordingly was made, to vest all those Lands in the King; there being no other way to hinder them from going to the Heirs of those that gave them when by Surrender they had dissolved those Corporations.</p>
+            <p>The second question proposed was, Whether if the Maior and Burgesses of a Corporation claim any right of Com<g ref="char:EOLhyphen"/>mon by Custom or Prescription upon other mens Lands, as is in the Case of <hi>Stafford, Derby, Coventry,</hi> and many other Corporations, They can surrender their Charters, and yet by any new Charter to be obtained from His Majesty, or by any other means, preserve their right of Common? To which it was answered, That if the Maiors and Burgesses of any Corporation claim such Common and afterwards makes such Surrender, and so dissolve the Body Corporate, their Prescription for Common is destroyed: And though His Majestie should please to incorpo<g ref="char:EOLhyphen"/>rate them anew, Yet their Title to the Common will (as they conceive) be totally lost:</p>
+            <p>The third Question was, Whether the Town of <hi>Nottingham,</hi> being one of the ancientest Corporations of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and free from tolls in most places, should have the same Priviledge if they surrendred their Charters? To which it was answered, That if the Town of <hi>Nottingham</hi> surrendred their Charters and so dissolved their Corpo<g ref="char:EOLhyphen"/>ration, Then in all other places that had formerly Tolls granted them, and kept their old Charters They should have Toll of <hi>Nottingham</hi> men, And all such Corporations as shall so surrender, notwithstanding any new Charter that can be granted them.</p>
+            <p>The last Question propounded was, Whether if the Maior or any other Members of a Corporation do without the consent of the major part of the Body Corporateoccasion the surrender of the Charters of that Corporation, The par<g ref="char:EOLhyphen"/>ticular persons that received dammage by that surrender may not have an action at Law for recovery of their dam<g ref="char:EOLhyphen"/>mages? To which it was answered, that it was no Question but that every particular person that should be any ways damnified by such surrender might by action at Common Law recover all his dammages of those persons that occasio<g ref="char:EOLhyphen"/>ned the surrender. Yet it was thought adviseable as the most proper way for preventing the surrendring of the Char<g ref="char:EOLhyphen"/>ters and of those inconveniences and suits which might be occasioned thereby, or by taking of a new Charter, if ob<g ref="char:EOLhyphen"/>tained by the Maior and a few of the Burgesses without the privity, consent, or hearing of the rest, That the <hi>major part</hi> of the Burgesses should present Mr. <hi>Maior</hi> with their sence of his proceedings, and declare their dissent from any surrender. And accordingly a writing was drawn and signed by betwixt Three and Four Hundred of the Burgesses; and then a fair Copy made and examined with the Original, and so with all the Burgesses Names to it that had subscribed was by several of the Burgesses, and in presence of several Gentlemen of Quality that were no Burgesses, presented to the Maior upon the Fourth day of <hi>August,</hi> as the sence of most of the Burgesses of that Town. The Writing so presented was as followeth, <hi>Viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <head>To Mr. <hi>Gervas Wilde,</hi> Maior of <hi>Nottingham.</hi>
+                        </head>
+                        <opener>
+                           <salute>SIR,</salute>
+                        </opener>
+                        <p>
+                           <hi>VVE whose Names are hereunto subscribed being Burgesses of the Town of</hi> Nottingham; <hi>and knowing, or understanding that you and thirteen more of the Corporation have, without the consent of the Burgesses of this Town and against their will, taken upon you to agree to the surrender of the Charters, Liberties, and Franchises of this Corporation, and to cause the Corporation Seal to be affixed to an Instrument for making of such surrender: And be<g ref="char:EOLhyphen"/>ing by our Burges Oath obliged to preserve, as far as in us lies, all the Rights and Priviledges of this Corporation; And considering what great damage it must necessarily be to the Corporation in general, and to us and every other particular Burges of the Corporation, if the Charters, Liberties and Franchises should be so surrendred; Have thought our selves obliged, in order to prevent so great an evil, to signifie these our thoughts of what you have done, and are about to do: And that many of your Liberties and Franchises, which are only held by Custom, and not by Charter, will certainly be lost if you make such surrender as you have agreed to. We do therefore hereby declare our dissent from those your pro<g ref="char:EOLhyphen"/>ceedings and that we neither do nor shall consent or have consented, that any surrender of any Charter, Liberty, Fran<g ref="char:EOLhyphen"/>chise, or Priviledge of the Corporation of</hi> Nottingham <hi>should be made either by you, or any Members of this Corporati<g ref="char:EOLhyphen"/>on, or other person or persons whatsoever: And that we will by all lawful waies and means oppose and hinder the surren<g ref="char:EOLhyphen"/>dring or vacating of any of the Charters, Rights, Liberties, or Priviledges of this Corporation: And that in case you occasion the surrender of any of the Charters, Rights, Liberties or Priviledges of this Corporation, we shall expect from you such satisfaction as the Laws will allow us.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The Burgesses were also advised to order, and accordingly did order Caveats, in the Names of some particular Burgesses on behalf of themselves, and most of the Burgesses of the Town, to be enter'd at the Lord Chancellors, The Lord Privy Seals, and in the Signet Office, against surrendring of any of the Charters of that Town, with<g ref="char:EOLhyphen"/>out the privity, consent and hearing of the said Burgesses, and against passing of any new Charter to that Town, without like privity, consent, and hearing: And the Burgesses have had an account from their Agent at <hi>London,</hi> that he had entred such Caveats at the Lord Chancellors, and in the Offices of the Lord <hi>Conway,</hi> and Sir <hi>Leoline Jenkins,</hi> it being commonly reported that the Lord Privy Seal had delivered up the Privy Seal to the said Sir <hi>Leoline.</hi>
+            </p>
+            <p>The Burgesses were further advised to Petition the Lord Chancellor to be heard before any surrender of their Charters should be accepted, or any new Charter to that Town should pass the Broad Seal: And accordingly a Petition was drawn and signed by above Three Hundred and Sixty Burgesses, and a Copy thereof fairly engrossed, with the Names of the Burgesses that had subscribed, was sent and presented to the Lord Chancellor at Bath, on Thursday the Tenth of this instant <hi>August.</hi> Which Petition was in these words following, <hi>Viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <pb n="4" facs="tcp:186129:3"/>
+                        <head>To the Right Honourable The Lord High Chancellor of <hi>England,</hi> The Humble Petition of the Burgesses of the Town of <hi>Nottingham</hi> whose Names are hereunto subscribed, on behalf of themselves and most of the Burgesses of that Town.</head>
+                        <opener>Most Humbly sheweth,</opener>
+                        <p>
+                           <hi>THat the Town of</hi> Nottingham <hi>being a Burrough by Prescription and an ancient Corporation: And the Burgesses of that Town (who are a Body Corporate by the Name of Maior and Burgesses) having many Liberties, Pri<g ref="char:EOLhyphen"/>viledges, Rights and Franchises which they hold by grant and Confirmation from His Majestie and His Royal Predecessors; and many other Rights, Liberties, and Priviledges which they hold by Custom or Prescription: And divers persons having given Lands to that Corporation of a very great annual value: The present Maior with three or four of the Aldermen and nine other Burgesses of that Corporation have declared they designe to take a New Charter, and have taken upon them, without the consent of your Petitioners, and most of the Burgesses of that Town, to agree to the Surrender of the Charters of that Corporation; And have taken the Town Seal and affixed it to an Instrument designing thereby to make an actual and absolute surrender of all the said Charters: Which if they have power to effect, it will (as your Petitioners are advised) not only dissolve the Corporation; deprive your Petitioners and other Burgesses of that Town of many Rights, Liberties and Priviledges which they hold by Custom and Prescription, cause all the Lands given to that Corporation to revert to the Heirs of the Donors, and disinherit your Petitioners and other Burgesses of that Town of all the said Lands, Liberties, and Priviledges, Which both they and their Predecessors as Burgesses of that Town have inherited, and ought to enjoy; But also subject your Petitioners and their Freeholds against their will to such services damages and great inconveniences, as may be brought upon them by the contrivances of the said Maior and Aldermen, in case they can obtain a New Charter to pass the Broad Seal without the privity, consent, or hearing of your Petitioners.</hi>
+                        </p>
+                        <p>Your Petitioners therefore humbly pray Your Lordship to take into consideration the aforesaid mischiefs, dammages and inconveniences that are like to befall your Pe<g ref="char:EOLhyphen"/>titioners, and other Burgesses of that Town, in case such surrender should be made and accepted, and a New Charter taken by the said Maior and Aldermen. And that Your Lordship would please, before such surrender be accepted or any New Charter for that Town be passed the Broad Seal, to grant your Petitioners a day of hearing, and to order thereupon as shall be agreeable to Equity and Justice.</p>
+                        <closer>
+                           <signed>And Your Petitioners shall ever pray, <hi>&amp;c.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The Petition being delivered as aforesaid, and Mr. Maior having been acquainted in manner aforesaid, by the ge<g ref="char:EOLhyphen"/>nerality of the Burgesses that they neither had consented, nor should consent to a surrender of any of the Charters, Rights, or Liberties of the Town, and the Burgesses having been advised by Councel that no Instrument for making a surrender of the Charters to the Earl of <hi>Hallifax</hi> and Sir <hi>Leoline Jenkins</hi> could be effectual in Law: It was hoped that there would not have been any further progress in the business; At least before the Burgesses were heard upon their Caveats or Petition; And it was taken for granted that no new Instrument in order to any surrender could be made and sealed without calling together the Councel of that Town; Because by Custom of that Town the <hi>Town-Seal</hi> hath alwaies used to be kept under the custody of three Locks and Keys and not taken out but in Councel; and those three Keys kept by three several persons for better preventing of any indirect use of the Seal. But con<g ref="char:EOLhyphen"/>trary to the Burgesses expectation and against all ancient usage; Mr. Maior (having, as he said, received advice from <hi>London</hi> that the Instrument he had sent up for surrendring the Charters was not sufficient) did on Saturday the Twelfth of <hi>August</hi> require of the Senior Coroner to deliver him his Key; Which the Coroner refusing to do, (unless according to the Custom of the Town a Councel was call'd and should order such delivery) it seems Mr. Maior found another way to come by the Seal; if that be true which was signified in the publick Prints that came down to <hi>Not<g ref="char:EOLhyphen"/>tingham</hi> on the Nineteenth of <hi>August, viz.</hi> That upon the Fourteenth of <hi>August</hi> a surrender of <hi>Nottingham</hi> Charters was made to His Majesty. And there is one thing which hath happened since which gives a shrewd light what Mr. Maior did on that Twelfth of <hi>August</hi> without so much as summoning a Councel: For the party who, by Mr. Maiors command as he saith, did that day force open the Lock to which the Coroners Key belonged, hath since confessed the fact. So that now if it should hereafter appear to be true, as those Prints seem to intimate, That any Instru<g ref="char:EOLhyphen"/>ment <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> surrendring of <hi>Nottingham</hi> Charters to His Majestie was presented to His Majestie on the Fourteenth of August. It will scarce be a question by what means, or how lawfully Mr. Maior came by the Seal, or how valid such <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is like to be.</p>
+            <p>This is the true Case of the Burgesses of <hi>Nottingham,</hi> who are ready to make good every matter of Fact as here<g ref="char:EOLhyphen"/>in <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> when ever there shall be occasion, and doubt not but to prove it if they may either be heard upon their Petition or Caveats: And however question not, but by the Assistance of the Courts of Justice they shall still pre<g ref="char:EOLhyphen"/>serve their Rights; Notwithstanding all these endeavours that have been used to give up their Charters and Liberties.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Brabazon Aylmer,</hi> at the Three Pigeons, over against the <hi>Royal Exchange</hi> in <hi>Cornhil.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
